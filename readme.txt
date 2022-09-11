@@ -8,5 +8,9 @@
 8. Close the terminal.
 9. Open the mylaravelapp folder.
 9. Open the terminal again.
-10. Run php artisan server.
+10. Run php artisan serve.
 11. Open your browser and enter this url: http://127.0.0.1:8000 .
+12. Go to C:/xampp/htdocs in the file explorer. Click the mylaravelapp folder. Right click and click Git Bash.
+13. Type git init . Press Enter.
+14. Type git checkout -b 'groupname' . Press Enter.
+15. Type git push https://github.com/bscs3c/laravel.git .
